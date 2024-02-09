@@ -1,0 +1,5 @@
+ontologies:
+  source:
+    - url: https://protege.stanford.edu/ontologies/pizza/pizza.owl
+    - path: ontologies
+  module_class_iri: 'http://www.co-ode.org/ontologies/pizza/pizza.owl#'
